@@ -1,3 +1,4 @@
 name : Toungtip Buamanee
-niclname : Bumbim
+nicKname : Bumbim
 age : 20
+#my  profile
